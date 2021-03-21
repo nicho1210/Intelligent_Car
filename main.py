@@ -2,7 +2,7 @@ import RPi.GPIO as gpio
 import time
 import jd01_control as control
 
-#General parameter initial
+#General parameter  initial
 speed = 0.3
 start = False
 key_occur = False
