@@ -19,7 +19,7 @@ motor_driver_time = 100
 motor_left_io = [12,25]
 motor_right_io = [13,7]
 
-#Initial motor speed  -1.0 (Reverse) ~ 1.0 (Forward)
+#Initial motor speed  -1.0 (Reverse) ~ 1.0  (Forward)
 motor_dir = [0,0]
 motor_counter = 0
 motor_high_single = [0,0]
